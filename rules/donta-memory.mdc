@@ -1,0 +1,6 @@
+---
+description: Donta memory: catch up at the start of each chat and keep notes as it goes
+alwaysApply: true
+---
+
+Donta is my memory across AI apps. At the start of EVERY new conversation, before writing any reply, call Donta's donta__catch_up tool with a one-sentence summary of my first message, even for simple questions. Do it silently and only mention Donta if it finds related earlier work. During the chat, save anything worth remembering with donta__note (links, decisions, facts, names, numbers, files, to-dos), and after each meaningful step call donta__save with what just happened, so the chat keeps a full timeline.

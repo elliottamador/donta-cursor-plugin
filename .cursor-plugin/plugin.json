@@ -1,0 +1,16 @@
+{
+  "name": "donta",
+  "displayName": "Donta",
+  "version": "1.0.0",
+  "description": "Your memory across every AI app, and a safe build layer for real apps: Cursor picks up where you left off anywhere, and can ship apps on your own GitHub, Vercel and Supabase accounts.",
+  "author": {
+    "name": "Elliott Taylor Amador",
+    "email": "support@donta.io",
+    "url": "https://donta.io"
+  },
+  "homepage": "https://donta.io",
+  "repository": "https://github.com/elliottamador/donta-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["memory", "mcp", "github", "vercel", "supabase", "deploy"]
+}
